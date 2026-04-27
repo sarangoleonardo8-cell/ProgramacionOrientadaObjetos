@@ -524,6 +524,5 @@ class Solution {
 - 🟢 Java String Reverse - Completado
 ___
 ## 🔗 Enlaces Útiles
-- 🌐 [HackerRank Java](https://www.hackerrank.com/domains/java)
 - 👤 [Perfil de Jefferson Sarango](https://www.hackerrank.com/profile/jefferson_l_sar1)
 - 📚 [Documentación Oracle Java](https://docs.oracle.com/javase/tutorial/)
