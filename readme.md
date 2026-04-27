@@ -5,7 +5,7 @@
 La presente actividad tiene la finalidad de nivelar y mejorar sus conocimientos a los estudiantes en fundamentos de la programación y en programación orientada a Objetos con Java,  a través de la resolución de los siguiente ejercicios en línea. Los mismos que deberan entregar sus avances en las tutorías o hasta la fecha determinada.
 ## 📚 Contenido
 
-### 📁 Unidad 1 - Fundamentos
+### 📁 Java Stdin and Stdout I
 - 📖 Conceptos básicos de programación  
 - 💡 Lógica computacional  
 
