@@ -522,11 +522,8 @@ class Solution {
 - 🟢 Java Substring - Completado
 - � Java Substring Comparisons - Completado
 - 🟢 Java String Reverse - Completado
-
+___
 ## 🔗 Enlaces Útiles
 - 🌐 [HackerRank Java](https://www.hackerrank.com/domains/java)
-- 👤 [Perfil de Jefferson Sarango](https://www.hackerrank.com/profile/jefferson_sarango)
+- 👤 [Perfil de Jefferson Sarango](https://www.hackerrank.com/profile/jefferson_l_sar1)
 - 📚 [Documentación Oracle Java](https://docs.oracle.com/javase/tutorial/)
-- 🎯 [Portafolio de Referencia](https://portafolio-java-poo.web.app)
-
-
