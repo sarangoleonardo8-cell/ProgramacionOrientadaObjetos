@@ -6,26 +6,65 @@ La presente actividad tiene la finalidad de nivelar y mejorar sus conocimientos 
 ## 📚 Contenido
 
 ### 📁 Java Stdin and Stdout I
-- 📖 Conceptos básicos de programación  
-- 💡 Lógica computacional  
+- En este desafío, debes leer enteros de stdin y luego imprimirlos en stdout. Cada entero debe imprimirse en una nueva línea. Para facilitar un poco el problema, una parte del código se proporciona para ti en el editor de abajo.
 
-### 📁 Unidad 2 - Estructuras de control
+
+
+### 📁 Java If-Else
 - 🔀 Condicionales (if, switch)  
 - 🔁 Ciclos (for, while)  
 
-### 📁 Unidad 3 - Programación en Java
+### 📁 Java Stdin and Stdout II
 - ➕ Calculadora básica  
 - 🎯 Adivinar número  
 - ✖️ Tablas de multiplicar  
 
-### 📁 Unidad 4 - Estructuras de datos
+### 📁 Java Output Formatting
 - 📊 Arreglos  
-- 🧮 Matrices  
+- 🧮 Matrices
 
-## 🛠️ Tecnologías utilizadas
-- ☕ Java  
-- 💻 Visual Studio Code  
-- 🔧 Git y GitHub  
+### 📁 Java Loops I
+- 📊 Arreglos  
+- 🧮 Matrices
 
-## 🚀 Cómo usar este repositorio
-1. Clonar el repositorio:
+### 📁 Java Loops II
+- 📊 Arreglos  
+- 🧮 Matrices
+
+### 📁 Java End-of-file
+- 📊 Arreglos  
+- 🧮 Matrices
+
+### 📁 Java Static Initializer Block
+- 📊 Arreglos  
+- 🧮 Matrices
+
+### 📁 Java Int to String
+- 📊 Arreglos  
+- 🧮 Matrices
+
+### 📁 Java Date and Time
+- 📊 Arreglos  
+- 🧮 Matrices
+
+### 📁 Java Currency Formatter
+- 📊 Arreglos  
+- 🧮 Matrices
+
+### 📁 Java Strings Introduction
+- 📊 Arreglos  
+- 🧮 Matrices
+
+### 📁 Java Substring
+- 📊 Arreglos  
+- 🧮 Matrices
+
+### 📁 Java Substring Comparisons
+- 📊 Arreglos  
+- 🧮 Matrices
+
+### 📁 Java String Reverse
+- 📊 Arreglos  
+- 🧮 Matrice
+
+
